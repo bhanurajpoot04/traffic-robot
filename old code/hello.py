@@ -13,7 +13,7 @@
 # print(number_one % number_two)
 
 
-# principal = 1000
+# principal = 2000
 # rate = 5
 # time = 1 
 
@@ -87,7 +87,7 @@
 
 # List
 
-numbers = [1,2,3,4,5]
+# numbers = [1,2,3,4,5]
 
 # print(numbers[0])
 # print(numbers[1])
@@ -145,7 +145,7 @@ numbers = [1,2,3,4,5]
 # print_numbers(1000)
 
 
-numbers = [1,2,3,4,5,6,7,8,9,10]
+# numbers = [1,2,3,4,5,6,7,8,9,10]
 
 
 # for number in numbers : 
@@ -224,13 +224,13 @@ numbers = [1,2,3,4,5,6,7,8,9,10]
 #         print("Consonent")
 
 
-numbers =[1,2,3,4,5]
+# numbers =[1,2,3,4,5]
 
 # print(numbers[0])
 # print(numbers[-1])
 # print(len(numbers))
 
-numbers.append(6)
+# numbers.append(6)
 
 # numbers.pop(0)
 
@@ -255,8 +255,8 @@ numbers.append(6)
 # print(list(user.keys()))
 # print(list(user.values()))
 
-count = 0 
+# count = 0 
 
-while count <= 3 :
-    print(count)
-    count = count + 1
+# while count <= 3 :
+#     print(count)
+#     count = count + 1

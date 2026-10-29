@@ -4,7 +4,7 @@ import time
 from ultralytics import YOLO
 
 # --- Config ---
-VIDEO_PATH = 'video2.mp4'
+VIDEO_PATH = 'video.mp4'
 WINDOW_SIZE = (1080, 720)
 CONFIDENCE = 0.4
 
