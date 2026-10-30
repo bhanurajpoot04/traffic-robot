@@ -1,0 +1,3 @@
+# Only needed for workshop/bonus_projects/gesture_*.py
+mediapipe
+pyautogui
